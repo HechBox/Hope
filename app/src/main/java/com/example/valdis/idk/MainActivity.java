@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
         int a=5;
         int s=757676;
 
+       // VAI SHITAS STRADA ??
+
 
 
     }
